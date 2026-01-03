@@ -2,6 +2,9 @@
 
 The **PMP Exam Simulator** is a Python-based GUI application designed to help you prepare for the PMP® exam through realistic practice and performance tracking. It allows you to simulate exam conditions while monitoring your progress over time.
 
+## 📝 Link to Official page
+https://queeniencoffee-ygitc.wordpress.com/%f0%9f%93%96-pmp-study-guide-%f0%9f%93%9d/
+
 ## 🎯 Features
 - Interactive GUI to answer PMP-style practice questions  
 - Tracks the number of **correct and incorrect answers**  
@@ -32,3 +35,4 @@ Once launched, the GUI will present exam-style questions one at a time. As you a
 
 ## 🗐 Disclaimer
 This simulator is an independent study tool and is not affiliated with or endorsed by PMI.
+
