@@ -8,7 +8,7 @@ The **PMP Exam Simulator** is a Python-based GUI application designed to help yo
 - Measures **time spent on each question** to improve time management  
 - Provides immediate feedback to help identify weak areas  
 
-## Requirements
+## 📜 Requirements
 - Python 3.11 or higher
 
 ## 🧠 How to Run
@@ -26,9 +26,9 @@ The **PMP Exam Simulator** is a Python-based GUI application designed to help yo
   python PMPSimulator_v1.0.py
 ```
 
-## How It Works
+## 📍 How It Works
 
 Once launched, the GUI will present exam-style questions one at a time. As you answer questions, the simulator records your accuracy and the time taken per question, helping you build confidence and exam readiness.
 
-## Disclaimer
+## 🗐 Disclaimer
 This simulator is an independent study tool and is not affiliated with or endorsed by PMI.
